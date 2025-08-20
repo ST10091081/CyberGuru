@@ -1,0 +1,16 @@
+﻿@page
+@model QuizModel
+@{
+    ViewData["Title"] = "Cybersecurity Quiz";
+}
+
+<div class="quiz-container">
+    <h2>Cybersecurity Awareness Quiz</h2>
+    <p id="timer">Time Left: <span id="time">15</span> seconds</p>
+    <div id="question-box"></div>
+    <div id="options-box"></div>
+    <button id="next-btn" class="btn btn-primary" disabled>Next</button>
+    <p id="score">Score: 0</p>
+</div>
+
+<script src="~/js/quiz.js"></script>
