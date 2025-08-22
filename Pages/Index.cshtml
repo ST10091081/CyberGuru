@@ -1,10 +1,59 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="cyber-bg">
+    <div class="landing-content">
+        <h1 class="headline">Learn Cybersecurity the Fun Way!</h1>
+        <a href="/Games/PhishingQuiz" class="cta-btn">Start Playing</a>
+        <section class="why-cyber">
+            <h2>Why Cybersecurity Matters</h2>
+            <ul class="cyber-stats">
+                <li><strong>80%</strong> of breaches are caused by human error</li>
+                <li><strong>1 in 3</strong> people fall for phishing emails</li>
+                <li><strong>$6T</strong> global cost of cybercrime in 2025</li>
+            </ul>
+        </section>
+    </div>
+    <canvas id="matrix-bg"></canvas>
 </div>
+
+@section Scripts {
+    <script>
+        // Simple Matrix animation
+        const canvas = document.getElementById('matrix-bg');
+        const ctx = canvas.getContext('2d');
+        let width = window.innerWidth;
+        let height = window.innerHeight;
+        canvas.width = width;
+        canvas.height = height;
+        const letters = '01';
+        const fontSize = 16;
+        const columns = Math.floor(width / fontSize);
+        const drops = Array(columns).fill(1);
+
+        function drawMatrix() {
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
+            ctx.fillRect(0, 0, width, height);
+            ctx.fillStyle = '#00ff41';
+            ctx.font = fontSize + 'px monospace';
+            for (let i = 0; i < drops.length; i++) {
+                const text = letters[Math.floor(Math.random() * letters.length)];
+                ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+                if (drops[i] * fontSize > height && Math.random() > 0.975) {
+                    drops[i] = 0;
+                }
+                drops[i]++;
+            }
+        }
+        setInterval(drawMatrix, 33);
+        window.addEventListener('resize', () => {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            canvas.width = width;
+            canvas.height = height;
+        });
+    </script>
+}

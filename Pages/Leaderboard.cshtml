@@ -1,4 +1,24 @@
 ﻿@page
 @model CyberGamify.Pages.LeaderboardModel
 @{
+    ViewData["Title"] = "Leaderboard";
 }
+<h2>🏆 Leaderboard</h2>
+<table class="table table-striped">
+    <thead>
+        <tr><th>Rank</th><th>Score</th><th>Questions</th><th>Duration (s)</th><th>Date (UTC)</th></tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Top.Count; i++)
+        {
+            var a = Model.Top[i];
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@a.Score</td>
+                <td>@a.TotalQuestions</td>
+                <td>@a.DurationSeconds</td>
+                <td>@a.CreatedUtc.ToString("yyyy-MM-dd HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>

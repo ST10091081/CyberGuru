@@ -20,6 +20,21 @@ html {
 body {
   margin-bottom: 60px;
 }
+.quiz-container {
+    max-width: 560px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f7fbff;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,.08);
+    text-align: center;
+}
+
+#timer {
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
 
 .quiz-container {
     max-width: 500px;
@@ -48,4 +63,81 @@ body {
     margin-top: 15px;
     font-size: 18px;
     font-weight: bold;
+}
+
+.cyber-bg {
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #0a0a0a;
+}
+#matrix-bg {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+    pointer-events: none;
+}
+.landing-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding-top: 8vh;
+    color: #fff;
+}
+.headline {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-shadow: 0 0 10px #00ff41, 0 0 20px #00ff41;
+}
+.cta-btn {
+    display: inline-block;
+    margin-bottom: 2.5rem;
+    padding: 1rem 2.5rem;
+    font-size: 1.3rem;
+    color: #0a0a0a;
+    background: #00ff41;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 0 10px #00ff41;
+    transition: background 0.2s;
+}
+.cta-btn:hover {
+    background: #00cc33;
+    color: #fff;
+}
+.why-cyber {
+    background: rgba(10, 10, 10, 0.85);
+    border-radius: 16px;
+    display: inline-block;
+    padding: 2rem 2.5rem;
+    margin-top: 2rem;
+    box-shadow: 0 0 20px #00ff41;
+}
+.cyber-stats {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0 0;
+}
+.cyber-stats li {
+    font-size: 1.2rem;
+    margin-bottom: 0.7rem;
+}
+/* Quiz polish */
+.quiz-container .btn.correct {
+    background-color: #d1f7d6;
+    border-color: #28a745;
+}
+
+.quiz-container .btn.wrong {
+    background-color: #fdd7d7;
+    border-color: #dc3545;
+}
+
+.quiz-container #feedback {
+    min-height: 1.5rem;
 }

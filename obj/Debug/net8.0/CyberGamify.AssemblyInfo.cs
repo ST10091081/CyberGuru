@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberGamify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d1bbf5432a20ed75ab1dcd24043d644f2accf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberGamify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberGamify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\games\\phishingquiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\games\\phishingquiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\cybergamify\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:cybergamify\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\js\\phishing-quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\js\\phishing-quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\games\\phishingquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\games\\phishingquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\css\\matrix-auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\css\\matrix-auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\js\\matrix-bg.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\js\\matrix-bg.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\fe6d6426841a7d8127c323290a6ec0009e3843ef9c94c68446c7a079fcdcb4b8\\SqlInternalConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\a71d115807b23ef63abda3a5389eab0c6036e3f4196e9297ce3c159e280d34b2\\SqlConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\games\\quiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\games\\quiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\games\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\games\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\leaderboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\leaderboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\b4e04a3671b8f166efd1990252790f372c5401f16743a9c4df9dd21ff2cd4928\\ModelValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\leaderboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\leaderboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\models\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:models\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\407568d10c153a1e8795b38783e3792125d0f91f5904e5758bab476e7d6b2b61\\SslStream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\js\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\js\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\wwwroot\\js\\password.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:wwwroot\\js\\password.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\pages\\games\\passwordgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:pages\\games\\passwordgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|c:\\users\\asus\\source\\repos\\cybergamify\\migrations\\20250821175919_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232DDE9-796A-433B-8306-18ACEBF4A76D}|CyberGamify.csproj|solutionrelative:migrations\\20250821175919_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:01:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhishingQuiz.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PhishingQuiz.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Games\\PhishingQuiz.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PhishingQuiz.cshtml.cs",
+              "RelativeToolTip": "Pages\\Games\\PhishingQuiz.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:28:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T23:56:46.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhishingQuiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PhishingQuiz.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Games\\PhishingQuiz.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PhishingQuiz.cshtml",
+              "RelativeToolTip": "Pages\\Games\\PhishingQuiz.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:27:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameProgress.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\CyberGamify\\Models\\GameProgress.cs",
+              "RelativeDocumentMoniker": "CyberGamify\\Models\\GameProgress.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\CyberGamify\\Models\\GameProgress.cs",
+              "RelativeToolTip": "CyberGamify\\Models\\GameProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:11:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:48:11.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:04:10.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-21T00:10:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "phishing-quiz.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\phishing-quiz.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\phishing-quiz.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\phishing-quiz.js",
+              "RelativeToolTip": "wwwroot\\js\\phishing-quiz.js",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwHsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-20T03:27:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:46:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T00:19:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\register.cshtml",
+              "RelativeToolTip": "Pages\\Account\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T00:22:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "matrix-bg.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\matrix-bg.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\matrix-bg.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\matrix-bg.js",
+              "RelativeToolTip": "wwwroot\\js\\matrix-bg.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-22T00:24:51.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "matrix-auth.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\css\\matrix-auth.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\matrix-auth.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\css\\matrix-auth.css",
+              "RelativeToolTip": "wwwroot\\css\\matrix-auth.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T00:25:23.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:37:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Account\\register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\register.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:19:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\a71d115807b23ef63abda3a5389eab0c6036e3f4196e9297ce3c159e280d34b2\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a71d115807b23ef63abda3a5389eab0c6036e3f4196e9297ce3c159e280d34b2\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\a71d115807b23ef63abda3a5389eab0c6036e3f4196e9297ce3c159e280d34b2\\SqlConnection.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a71d115807b23ef63abda3a5389eab0c6036e3f4196e9297ce3c159e280d34b2\\SqlConnection.cs [Read Only]",
+              "ViewState": "AgIAACkGAAAAAAAAAAAhwDoGAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:16:52.194Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T01:02:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250821175919_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Migrations\\20250821175919_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250821175919_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Migrations\\20250821175919_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250821175919_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:59:20.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SqlInternalConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\fe6d6426841a7d8127c323290a6ec0009e3843ef9c94c68446c7a079fcdcb4b8\\SqlInternalConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fe6d6426841a7d8127c323290a6ec0009e3843ef9c94c68446c7a079fcdcb4b8\\SqlInternalConnection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\fe6d6426841a7d8127c323290a6ec0009e3843ef9c94c68446c7a079fcdcb4b8\\SqlInternalConnection.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fe6d6426841a7d8127c323290a6ec0009e3843ef9c94c68446c7a079fcdcb4b8\\SqlInternalConnection.cs [Read Only]",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAhwH4BAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:27:27.476Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T04:48:57.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T07:19:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Quiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\Quiz.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Games\\Quiz.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\Quiz.cshtml",
+              "RelativeToolTip": "Pages\\Games\\Quiz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:12:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Leaderboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Leaderboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Leaderboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Leaderboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Leaderboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:41:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Quiz.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\Quiz.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Games\\Quiz.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\Quiz.cshtml.cs",
+              "RelativeToolTip": "Pages\\Games\\Quiz.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:13:53.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Models\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "Models\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Models\\QuizQuestion.cs",
+              "RelativeToolTip": "Models\\QuizQuestion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:52:11.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\b4e04a3671b8f166efd1990252790f372c5401f16743a9c4df9dd21ff2cd4928\\ModelValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b4e04a3671b8f166efd1990252790f372c5401f16743a9c4df9dd21ff2cd4928\\ModelValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\b4e04a3671b8f166efd1990252790f372c5401f16743a9c4df9dd21ff2cd4928\\ModelValidator.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b4e04a3671b8f166efd1990252790f372c5401f16743a9c4df9dd21ff2cd4928\\ModelValidator.cs [Read Only]",
+              "ViewState": "AgIAALwCAAAAAAAAAAAawNECAAAGAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:03:43.784Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Leaderboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Leaderboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Leaderboard.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Leaderboard.cshtml",
+              "RelativeToolTip": "Pages\\Leaderboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T01:01:09.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuizAttempt.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Models\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "Models\\QuizAttempt.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Models\\QuizAttempt.cs",
+              "RelativeToolTip": "Models\\QuizAttempt.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:53:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SslStream.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\407568d10c153a1e8795b38783e3792125d0f91f5904e5758bab476e7d6b2b61\\SslStream.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\407568d10c153a1e8795b38783e3792125d0f91f5904e5758bab476e7d6b2b61\\SslStream.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\407568d10c153a1e8795b38783e3792125d0f91f5904e5758bab476e7d6b2b61\\SslStream.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\407568d10c153a1e8795b38783e3792125d0f91f5904e5758bab476e7d6b2b61\\SslStream.cs",
+              "ViewState": "AgIAAMQFAAAAAAAAAAAhwMsFAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:50:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:01:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:28:22.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-20T03:28:05.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "quiz.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\quiz.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\quiz.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\quiz.js",
+              "RelativeToolTip": "wwwroot\\js\\quiz.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-20T03:28:01.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "password.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\password.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\password.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\wwwroot\\js\\password.js",
+              "RelativeToolTip": "wwwroot\\js\\password.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-20T03:27:52.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PasswordGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PasswordGame.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Games\\PasswordGame.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CyberGamify\\Pages\\Games\\PasswordGame.cshtml",
+              "RelativeToolTip": "Pages\\Games\\PasswordGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T03:27:45.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,9 @@
+wwwroot\css\matrix-auth.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\matrix-bg.js
 wwwroot\js\password.js
-wwwroot\js\phishing.js
+wwwroot\js\phishing-quiz.js
 wwwroot\js\quiz.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

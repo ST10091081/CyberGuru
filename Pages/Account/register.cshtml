@@ -1,0 +1,29 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Register - CyberGamify</title>
+    <link rel="stylesheet" href="~/css/matrix-auth.css" />
+</head>
+<body>
+    <canvas id="matrix-bg"></canvas>
+    <div class="auth-container">
+        <form method="post" class="auth-form">
+            <h2>Register</h2>
+            <input asp-for="Input.Email" type="email" placeholder="Email" required />
+            <input asp-for="Input.Password" type="password" placeholder="Password" required />
+            <input asp-for="Input.ConfirmPassword" type="password" placeholder="Confirm Password" required />
+            <button type="submit">Register</button>
+            <div class="or-divider">OR</div>
+            <a class="signup-link" asp-page="/Account/Login">Login Page</a>
+        </form>
+    </div>
+    <script src="~/js/matrix-bg.js"></script>
+</body>
+</html>

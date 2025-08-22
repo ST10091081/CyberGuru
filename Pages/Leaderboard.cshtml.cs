@@ -1,26 +1,27 @@
-using Microsoft.AspNetCore.Mvc.RazorPages;
 using CyberGamify.Data;
 using CyberGamify.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace CyberGamify.Pages
 {
+    [Authorize]
     public class LeaderboardModel : PageModel
     {
         private readonly ApplicationDbContext _db;
         public LeaderboardModel(ApplicationDbContext db) => _db = db;
 
-        public List<ApplicationUser> TopUsers { get; set; }
+        public List<QuizAttempt> Top { get; set; } = new();
 
-        public void OnGet()
+        public async Task OnGet()
         {
-            // Top 10 users by XP
-            TopUsers = _db.Users
-                          .OrderByDescending(u => u.XP)
-                          .Take(10)
-                          .ToList();
+            Top = await _db.QuizAttempts
+                .OrderByDescending(a => a.Score)
+                .ThenBy(a => a.DurationSeconds)
+                .Take(10)
+                .ToListAsync();
         }
     }
 }
+

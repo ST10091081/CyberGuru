@@ -1,0 +1,72 @@
+﻿@page
+@model CyberGamify.Pages.Games.PhishingQuizModel
+@using System.Text.Json
+@{
+    ViewData["Title"] = "Phishing Quiz";
+    var json = JsonSerializer.Serialize(
+        Model.Questions,
+        new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase }
+    );
+}
+
+<div class="quiz-container card shadow-sm p-4 mx-auto" style="max-width: 720px;">
+    <h2 class="text-center mb-2">Phishing Quiz</h2>
+    <div id="scoreboard" class="d-flex justify-content-between mb-3">
+        <div>Score: <strong id="score">0</strong></div>
+        <div>Q <strong id="qnum">0</strong>/<span id="qtotal">0</span></div>
+        <div>⏳ Time Left: <strong id="time">15</strong>s</div>
+    </div>
+
+    <!-- Intro -->
+    <div id="intro">
+        <p class="mb-3">
+            You’ll be shown emails, messages, or links. Your job is to decide whether each one is Safe or Phishing.
+        </p>
+        <ul class="mb-3">
+            <li>Watch for suspicious sender domains</li>
+            <li>Poor spelling/grammar or urgent action requests</li>
+            <li>Links that don’t match the sender or request personal info</li>
+        </ul>
+        <button id="start-btn" class="btn btn-success w-100">Start Quiz</button>
+    </div>
+
+    <!-- Question -->
+    <div id="quiz" style="display:none;">
+        <div id="question-box" class="lead mb-3"></div>
+        <div id="options-box" class="mb-3"></div>
+        <div id="feedback" class="mb-2 fw-semibold"></div>
+        <button id="next-btn" class="btn btn-primary w-100" disabled>Next</button>
+        <p id="progress" class="mt-2 text-muted"></p>
+    </div>
+
+    <!-- Completion -->
+    <div id="summary" style="display:none;">
+        <h4 class="mb-3">🎉 Quiz Completed!</h4>
+        <p id="summary-line" class="fw-bold"></p>
+        <div class="mt-3">
+            <h5>Tips for improvement</h5>
+            <ul>
+                <li>Hover links to ensure the domain matches the sender</li>
+                <li>Be skeptical of urgent requests and attachments</li>
+                <li>Never enter credentials from an email link</li>
+                <li>Verify with the sender via known channels</li>
+            </ul>
+        </div>
+        <div class="d-flex gap-2">
+            <a class="btn btn-outline-secondary flex-fill" href="@Url.Page("PhishingQuiz")">Retry</a>
+            <a class="btn btn-outline-success flex-fill" href="@Url.Page("PhishingQuiz", new { level = (Model.Level >= 3 ? 3 : Model.Level + 1) })">Harder Level</a>
+        </div>
+    </div>
+</div>
+
+<!-- antiforgery token -->
+<form id="af" method="post">@Html.AntiForgeryToken()</form>
+
+<!-- initial questions JSON -->
+<script id="quiz-data" type="application/json">
+    @Html.Raw(json)
+</script>
+
+@section Scripts {
+    <script src="~/js/phishing-quiz.js" asp-append-version="true"></script>
+}

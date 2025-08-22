@@ -1,0 +1,29 @@
+@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Login - CyberGamify</title>
+    <link rel="stylesheet" href="~/css/matrix-auth.css" />
+</head>
+<body>
+    <canvas id="matrix-bg"></canvas>
+    <div class="auth-container">
+        <form method="post" class="auth-form">
+            <h2>Login</h2>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Input.Email" type="email" placeholder="Email" required />
+            <input asp-for="Input.Password" type="password" placeholder="Password" required />
+            <button type="submit">Login</button>
+            <div class="or-divider">OR</div>
+            <a class="signup-link" asp-page="/Account/register">Signup Page</a>
+        </form>
+    </div>
+    <script src="~/js/matrix-bg.js"></script>
+</body>
+</html>
